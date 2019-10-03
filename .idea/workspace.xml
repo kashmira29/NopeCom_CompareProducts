@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="274bf595-6b5a-4265-8c5d-c8f733a0b7c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CompareProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CompareProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CompareProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CompareProducts.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CompareProducts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="122" column="73" lean-forward="true" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
+            <state relative-caret-position="323">
+              <caret line="122" column="48" selection-start-line="122" selection-start-column="48" selection-end-line="122" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -101,8 +97,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Loadprops.java" />
         <option value="$PROJECT_DIR$/src/main/java/Utils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CompareProducts.java" />
         <option value="$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareProducts.java" />
       </list>
     </option>
   </component>
@@ -247,12 +243,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox - 2019.10.02 at 08h 46m 50s.xml">
-      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox - 2019.10.02 at 08h 47m 53s.xml">
-      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CompareProducts_UserShouldBeAbleToAddCommentinNewsDetails - 2019.10.02 at 09h 27m 51s.xml">
       <configuration name="CompareProducts.UserShouldBeAbleToAddCommentinNewsDetails" configurationId="TestNG" />
     </history-entry>
@@ -277,6 +267,12 @@
     <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox_(1) - 2019.10.03 at 09h 38m 30s.xml">
       <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox_(1) - 2019.10.03 at 09h 51m 02s.xml">
+      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox_(1) - 2019.10.03 at 09h 52m 33s.xml">
+      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -291,7 +287,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,14 +364,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CompareProducts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="122" column="73" lean-forward="true" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
+        <state relative-caret-position="323">
+          <caret line="122" column="48" selection-start-line="122" selection-start-column="48" selection-end-line="122" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

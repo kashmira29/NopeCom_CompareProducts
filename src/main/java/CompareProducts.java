@@ -118,12 +118,8 @@ public class CompareProducts extends Utils {
         driver.findElement(By.xpath("//input[@class=\"button-1 search-box-button\"]")).click();
         List<WebElement> al = driver.findElements(By.xpath("//h2[@class=\"product-title\"]"));
         System.out.println(al.size());
-        if (al.size() == 0){
-
-            System.out.println("No item found that match your criteria");
-        }
         for (WebElement e : al) {
-
+             //System.out.println(e.getText());
            if (e.getText().contains("Nike")) {
                e.isDisplayed();
                 System.out.println(e.getText());
