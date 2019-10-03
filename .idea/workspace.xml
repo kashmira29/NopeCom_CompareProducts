@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="274bf595-6b5a-4265-8c5d-c8f733a0b7c5" name="Default Changelist" comment="" />
+    <list default="true" id="274bf595-6b5a-4265-8c5d-c8f733a0b7c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CompareProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CompareProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CompareProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CompareProducts.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CompareProducts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="81" column="104" lean-forward="true" selection-start-line="81" selection-start-column="104" selection-end-line="81" selection-end-column="104" />
+            <state relative-caret-position="342">
+              <caret line="122" column="73" lean-forward="true" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Loadprops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="238">
               <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -60,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="476">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#898#899#0" expanded="true" />
@@ -84,6 +91,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -91,8 +101,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Loadprops.java" />
         <option value="$PROJECT_DIR$/src/main/java/Utils.java" />
-        <option value="$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties" />
         <option value="$PROJECT_DIR$/src/main/java/CompareProducts.java" />
+        <option value="$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties" />
       </list>
     </option>
   </component>
@@ -114,66 +124,25 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demonopecommerceProducts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demonopecommerceProducts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demonopecommerceProducts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demonopecommerceProducts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demonopecommerceProducts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demonopecommerceProducts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demonopecommerceProducts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demonopecommerceProducts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demonopecommerceProducts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demonopecommerceProducts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demonopecommerceProducts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demonopecommerceProducts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Webdriver" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -193,12 +162,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CompareProducts.UserShouldBeAbleToAddItemForComparision">
+  <component name="RunManager" selected="TestNG.CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)">
+    <configuration name="CompareProducts.UserShouldBeAbleToAddCommentinNewsDetails (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo.nopecommerceProducts" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompareProducts" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToAddCommentinNewsDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CompareProducts.UserShouldBeAbleToAddCommentinNewsDetails" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demonopecommerceProducts" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CompareProducts" />
       <option name="METHOD_NAME" value="UserShouldBeAbleToAddCommentinNewsDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareProducts.UserShouldBeAbleToAddItemForComparision (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo.nopecommerceProducts" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompareProducts" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToAddItemForComparision" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -218,8 +211,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demonopecommerceProducts" />
+    <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo.nopecommerceProducts" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CompareProducts" />
       <option name="METHOD_NAME" value="UserShouldBeAbleToSearchItemsInSearchBox" />
@@ -232,9 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)" />
+        <item itemvalue="TestNG.CompareProducts.UserShouldBeAbleToAddCommentinNewsDetails (1)" />
+        <item itemvalue="TestNG.CompareProducts.UserShouldBeAbleToAddItemForComparision (1)" />
         <item itemvalue="TestNG.CompareProducts.UserShouldBeAbleToAddItemForComparision" />
         <item itemvalue="TestNG.CompareProducts.UserShouldBeAbleToAddCommentinNewsDetails" />
-        <item itemvalue="TestNG.CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" />
       </list>
     </recent_temporary>
   </component>
@@ -252,21 +247,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox - 2019.10.02 at 01h 22m 51s.xml">
-      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox - 2019.10.02 at 01h 25m 00s.xml">
-      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox - 2019.10.02 at 01h 25m 22s.xml">
-      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox - 2019.10.02 at 01h 26m 14s.xml">
-      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CompareProducts_UserShouldBeAbleToAddItemForComparision - 2019.10.02 at 08h 33m 51s.xml">
-      <configuration name="CompareProducts.UserShouldBeAbleToAddItemForComparision" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox - 2019.10.02 at 08h 46m 50s.xml">
       <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox" configurationId="TestNG" />
     </history-entry>
@@ -282,12 +262,27 @@
     <history-entry file="CompareProducts_UserShouldBeAbleToAddItemForComparision - 2019.10.02 at 09h 37m 20s.xml">
       <configuration name="CompareProducts.UserShouldBeAbleToAddItemForComparision" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CompareProducts_UserShouldBeAbleToAddItemForComparision_(1) - 2019.10.03 at 09h 22m 13s.xml">
+      <configuration name="CompareProducts.UserShouldBeAbleToAddItemForComparision (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompareProducts_UserShouldBeAbleToAddItemForComparision_(1) - 2019.10.03 at 09h 23m 56s.xml">
+      <configuration name="CompareProducts.UserShouldBeAbleToAddItemForComparision (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompareProducts_UserShouldBeAbleToAddCommentinNewsDetails_(1) - 2019.10.03 at 09h 29m 07s.xml">
+      <configuration name="CompareProducts.UserShouldBeAbleToAddCommentinNewsDetails (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox_(1) - 2019.10.03 at 09h 30m 21s.xml">
+      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompareProducts_UserShouldBeAbleToSearchItemsInSearchBox_(1) - 2019.10.03 at 09h 38m 30s.xml">
+      <configuration name="CompareProducts.UserShouldBeAbleToSearchItemsInSearchBox (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,13 +322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5678">
@@ -344,9 +332,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Loadprops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="238">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -354,17 +349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="476">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#898#899#0" expanded="true" />
@@ -377,10 +365,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/TestDataConfig.Properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CompareProducts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="81" column="104" lean-forward="true" selection-start-line="81" selection-start-column="104" selection-end-line="81" selection-end-column="104" />
+        <state relative-caret-position="342">
+          <caret line="122" column="73" lean-forward="true" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
